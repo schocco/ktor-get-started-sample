@@ -7,6 +7,7 @@ import java.time.format.DateTimeFormatter
 
 @Serializable
 class TimeInfo {
+
     private var epoch: Long
     private var formatted: String
 
